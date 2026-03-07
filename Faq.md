@@ -496,6 +496,9 @@ You can track your submission status, access the leaderboard, and view the dashb
 **8.9. What next if I completed my Case Studies and I am done with my endorsements?**
 We have some project ideas from the existing open source projects from Vicharanashala Lab for Education Design and Annam.AI listed on the Vinternship website. You can contribute to these real-time open-source projects, working with our developers to build real applications and add new features.
 
+**8.10. What to do if the case studies submission are not updated?** 
+Please wait for 24 hrs as the dashboard will update once a while. If the submission doesn't reflect, please contact the support desk in discord as sson as possible to report the concern.
+
 ---
 
 ## 9. Ejection Policy
