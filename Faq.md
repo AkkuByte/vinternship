@@ -253,11 +253,15 @@ Send the email to all concerned parties (POC, HOD, and DLED) and retain a copy f
 ## 7. ViBe Platform
 
 **7.1 How do I log in to ViBe?**  
+-> Link for the website: https://vibe.vicharanashala.ai/auth
+
+-> Sign up as a student with the registered mail ID into the ViBe platform.
+
 -> To log in to the ViBe platform, follow the steps below carefully:
 
 1. Log in to the ViBe platform as a student from registered email ID
 
-2. Check the "Invite" tab in the Top right side of the Dashboard.
+2. Check the "Notifications" tab in the Top right side of the Dashboard.
 
 3. Accept the course invite sent for your respective MERN Course.
 
